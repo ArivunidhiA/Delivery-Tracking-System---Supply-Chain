@@ -2,6 +2,17 @@
 
 A comprehensive solution for tracking and managing last-mile deliveries with real-time updates, route optimization, and analytics.
 
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](docs/screenshots/SC1.png)
+
+### Vehicle Tracking
+![Vehicle Tracking](docs/screenshots/SC2.png)
+
+### Delivery Management
+![Delivery Management](docs/screenshots/SC3.png)
+
 ## Features
 
 - Real-time vehicle tracking with GPS integration
